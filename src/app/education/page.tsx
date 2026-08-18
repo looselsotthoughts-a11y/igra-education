@@ -208,7 +208,8 @@ export default function EducationPage() {
               })}
             </div>
           </>
-        )}
+        )
+    }
       </main>
 
       <footer className="border-t border-[#DDD9D0] mt-16">
